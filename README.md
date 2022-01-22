@@ -1,7 +1,7 @@
-# Hello Fellow < Developers/ >! 👋
+# Hello Fellow < Developers/ >!:wave:
 
 
-#### Hi! My name is Gulchin Mustafazada. Thank You for taking the time to view my GitHub Profile 😄
+#### Hi! My name is Gulchin. Thank You for taking the time to view my GitHub Profile 😄
 
 <!--
 **GulcinMustafazada/GulcinMustafazada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
