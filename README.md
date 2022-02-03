@@ -56,8 +56,11 @@
     <img src="https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif" width="30px"/>
   </h2>  
   
+   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GulcinMustafazada&theme=dark&show_icons=true)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GulcinMustafazada&theme=dark&background=000000)](https://git.io/streak-stats)
+  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulcinMustafazada&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
                                                                                                  
