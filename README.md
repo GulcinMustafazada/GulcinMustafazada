@@ -1,3 +1,8 @@
+<div id="header" align="center>
+    <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100" />
+</div>
+
+
 # Hello Fellow < Developers/ >!:wave:
 
 
@@ -11,4 +16,4 @@
 - 💬 Ask me about HTML,CSS,Javascript
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GulcinMustafazada&theme=dark&show_icons=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GulcinMustafazada&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
