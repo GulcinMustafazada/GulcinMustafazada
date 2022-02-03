@@ -2,7 +2,7 @@
 
 
 #### Hi! My name is Gulchin. Thank You for taking the time to view my GitHub Profile 😄
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 ## *ABOUT ME*
