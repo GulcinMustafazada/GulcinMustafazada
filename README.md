@@ -29,7 +29,8 @@
 
 
 
-
+<div style="display:flex">
+  <div>
   <h2>ABOUT ME</h2>
  <ul>
   <li> 🔭 I'm currently studying at university</li>
@@ -37,6 +38,11 @@
   <li> 💬 Ask me about HTML,CSS,Javascript</li>
 </ul>
   <h2>
+    </div>
+    <div>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300px" height="300px"/>
+    </div>
+</div>
     Languages and Tools
     :hammer_and_wrench:
   </h2>  
