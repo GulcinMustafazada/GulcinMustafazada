@@ -33,9 +33,9 @@
    <div align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="500px" height="300px"/>
     </div>
-  <div >
+  <div align="center" >
   <h2>ABOUT ME</h2>
- <ul>
+ <ul align="center">
   <li> 🔭 I'm currently studying at university</li>
   <li> 🌱 I’m currently learning Git,Github, Python</li>
   <li> 💬 Ask me about HTML,CSS,Javascript</li>
@@ -44,11 +44,12 @@
     </div>
    
 </div>
+  <h2 align="center">
     Languages and Tools
     :hammer_and_wrench:
   </h2>  
   
- <div>
+ <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -58,17 +59,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp; 
 </div>
   
-   <h2>
+   <h2 align="center">
     My Github Stats
     <img src="https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif" width="30px"/>
   </h2>  
   
-   
+<div align="center">   
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GulcinMustafazada&theme=dark&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GulcinMustafazada&theme=dark&background=000000)](https://git.io/streak-stats)
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulcinMustafazada&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ </div>
                                                                                                  
 
