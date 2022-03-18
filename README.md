@@ -25,7 +25,7 @@
 </h1>
 
   <h4 align="center">
-     ! My name is Gulchin. Thank You for taking the time to view my GitHub Profile😄
+    Hi ! My name is Gulchin. Thank You for taking the time to view my GitHub Profile😄
     
   </h4>
 
