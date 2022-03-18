@@ -39,9 +39,9 @@
   <div align="center" >
   <h2>ABOUT ME</h2>
  <ul align="center">
-  <li> 🔭 I'm currently studying at university</li>
-  <li> 🌱 I’m currently learning Git,Github, Python</li>
-  <li> 💬 Ask me about HTML,CSS,Javascript</li>
+  <li> 🔭 I'm currently studying at university.</li>
+  <li> 🌱 I’m currently learning Git,Github, Python.</li>
+  <li> 💬 Ask me about HTML,CSS,Javascript.</li>
 </ul>
   <h2>
     </div>
