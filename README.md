@@ -34,7 +34,7 @@
 
 
    <div align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="500px" height="300px"/>
+  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="500px" height="300px"/>
     </div>
   <div align="center" >
   <h2>ABOUT ME</h2>
