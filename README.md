@@ -8,7 +8,7 @@
   <a href="https://github.com/GulcinMustafazada">
     <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://z-p15.www.instagram.com/">
+  <a href="https://www.instagram.com/gulcinzadeh_//">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://www.facebook.com/profile.php?id=100038549012827">
