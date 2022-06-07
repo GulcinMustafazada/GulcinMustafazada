@@ -66,7 +66,7 @@
   
    <h2 align="center">
     My Github Stats
-    <img src="https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif" width="30px"/>
+<!--     <img src="https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif" width="30px"/> -->
   </h2>  
   
 <div align="center">   
